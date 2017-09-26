@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">NotificationsPush</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="local_service_started">PushNotificationService on</string>
+    <string name="local_service_stopped">PushNotificationService off</string>
+    <string name="local_service_disconnected">PushNotificationService off</string>
+    <string name="local_service_label">Hi!</string>
+</resources>
